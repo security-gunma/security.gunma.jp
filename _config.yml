@@ -1,0 +1,11 @@
+title: セキュリティぐんま
+author: セキュリティぐんま
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  群馬県を拠点とするコンピュータセキュリティをがんばる団体です。
+
+twitter_username:
+github_username:  security-gunma
+
+sass:
+    style: compressed
