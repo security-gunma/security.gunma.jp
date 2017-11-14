@@ -1,5 +1,5 @@
 title: セキュリティぐんま
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.
+description: 群馬県を拠点として活動するコンピュータセキュリティに関するITコミュニティ
 show_downloads: false
 
 baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -15,7 +15,7 @@ theme: # leave it empty
 
 # social
 author: "セキュリティぐんま"
-image: /thumbnail-jumbo.png
+#image: /thumbnail-jumbo.png
 #twitter:
 #  username: lorepirri
 #  site:
