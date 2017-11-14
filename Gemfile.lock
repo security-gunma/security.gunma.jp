@@ -1,3 +1,9 @@
+PATH
+  remote: .
+  specs:
+    jekyll-theme-cayman-blog (0.0.6)
+      jekyll (~> 3.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -45,7 +51,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll-theme-cayman-blog!
 
 BUNDLED WITH
    1.15.4
